@@ -1,10 +1,10 @@
-# Hello World
+# Simple Contract
 
-This Solidity program is a simple "Hello World" program that demonstrates the basic syntax and functionality of the Solidity programming language. The purpose of this program is to serve as a starting point for those who are new to Solidity and want to get a feel for how it works.
+This program is a simple contract that tries to mint and burn supplies
 
 ## Description
 
-This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract has a single function that returns the string "Hello World!". This program serves as a simple and straightforward introduction to Solidity programming, and can be used as a stepping stone for more complex projects in the future.
+This program is a simple contract that contains `mint` and `burn` functionalities for supplies
 
 ## Getting Started
 
@@ -34,6 +34,3 @@ Renz Angelo Aguirre
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
-
-
-
